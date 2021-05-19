@@ -1,5 +1,6 @@
-package guru.springframework.sfgdi.services;
+package com.springframework.sfgdi.services;
 
+import com.springframework.sfgdi.services.LifeCycleDemoBean;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.stereotype.Component;
